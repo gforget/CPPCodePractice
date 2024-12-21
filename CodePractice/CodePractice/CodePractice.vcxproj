@@ -154,13 +154,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithm\Searching.cpp" />
+    <ClCompile Include="Algorithm\Sorting.cpp" />
     <ClCompile Include="CodePractice.cpp" />
+    <ClCompile Include="CodeTrick\Predicate.cpp" />
+    <ClCompile Include="CodeWar\HistogramH1.cpp" />
     <ClCompile Include="DataStructure\DoubleLinkedListAndDoubleEndedQueue.cpp" />
     <ClCompile Include="DataStructure\MultidimensionalArray.cpp" />
     <ClCompile Include="DataStructure\SetAndMap.cpp" />
     <ClCompile Include="DataStructure\SimpleArray.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithm\Searching.h" />
+    <ClInclude Include="Algorithm\Sorting.h" />
+    <ClInclude Include="CodeTrick\Predicate.h" />
+    <ClInclude Include="CodeWar\HistogramH1.h" />
     <ClInclude Include="DataStructure\DoubleLinkedListAndDoubleEndedQueue.h" />
     <ClInclude Include="DataStructure\MultidimensionalArray.h" />
     <ClInclude Include="DataStructure\SetAndMap.h" />
