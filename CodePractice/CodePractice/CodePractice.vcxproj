@@ -159,6 +159,7 @@
     <ClCompile Include="CodePractice.cpp" />
     <ClCompile Include="CodeTrick\Predicate.cpp" />
     <ClCompile Include="CodeWar\HistogramH1.cpp" />
+    <ClCompile Include="CodeWar\TwistedSorting.cpp" />
     <ClCompile Include="DataStructure\DoubleLinkedListAndDoubleEndedQueue.cpp" />
     <ClCompile Include="DataStructure\MultidimensionalArray.cpp" />
     <ClCompile Include="DataStructure\SetAndMap.cpp" />
@@ -169,6 +170,7 @@
     <ClInclude Include="Algorithm\Sorting.h" />
     <ClInclude Include="CodeTrick\Predicate.h" />
     <ClInclude Include="CodeWar\HistogramH1.h" />
+    <ClInclude Include="CodeWar\TwistedSorting.h" />
     <ClInclude Include="DataStructure\DoubleLinkedListAndDoubleEndedQueue.h" />
     <ClInclude Include="DataStructure\MultidimensionalArray.h" />
     <ClInclude Include="DataStructure\SetAndMap.h" />

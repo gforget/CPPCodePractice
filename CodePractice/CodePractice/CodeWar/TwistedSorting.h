@@ -3,5 +3,5 @@
 class TwistedSorting
 {
 public:
-    
+    void Execute();
 };

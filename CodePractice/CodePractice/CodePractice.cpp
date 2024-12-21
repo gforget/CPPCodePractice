@@ -1,8 +1,8 @@
-#include "CodeTrick/Predicate.h"
+#include "CodeWar/TwistedSorting.h"
+
 int main(int argc, char* argv[])
 {
-    Predicate TestClass;
-    TestClass.Execute();
-    
+    TwistedSorting Class;
+    Class.Execute();
     return 0;
 }
