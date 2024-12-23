@@ -7,7 +7,21 @@
 
 void Searching::Execute()
 {
-    // Sample data
+    //With normal arrays
+    int arr[] = {1, 3, 5, 7, 9};
+    int size = sizeof(arr) / sizeof(arr[0]);
+
+    // The array must be sorted for binary_search to work
+    std::sort(arr, arr + size);
+
+    int value = 5;
+    if (std::binary_search(arr, arr + size, value)) {
+        std::cout << value << " found in array.\n";
+    } else {
+        std::cout << value << " not found in array.\n";
+    }
+    
+    // With Vector
     std::vector<int> numbers = {10, 20, 30, 40, 50};
 
     // Using std::find

@@ -11,7 +11,7 @@ public:
     template <typename Predicate>
     int filterAndCount(const std::vector<int>& vec, Predicate pred);
 
-    std::vector<int> AllEven(const std::vector<int>& vec, std::function<bool (int)> pred);
+    std::vector<int> AllValid(const std::vector<int>& vec, std::function<bool (int)> pred);
     
     void Execute();
 };
