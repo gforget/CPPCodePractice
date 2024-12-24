@@ -157,14 +157,18 @@
     <ClCompile Include="Algorithm\Searching.cpp" />
     <ClCompile Include="Algorithm\Sorting.cpp" />
     <ClCompile Include="CodePractice.cpp" />
+    <ClCompile Include="CodeTrick\COut.cpp" />
     <ClCompile Include="CodeTrick\Predicate.cpp" />
     <ClCompile Include="CodeWar\ErrorHistogram.cpp" />
     <ClCompile Include="CodeWar\HistogramH1.cpp" />
+    <ClCompile Include="CodeWar\KillerGarageDoor.cpp" />
     <ClCompile Include="CodeWar\LatinPig.cpp" />
+    <ClCompile Include="CodeWar\PointsInTheCircle.cpp" />
     <ClCompile Include="CodeWar\ReachMeAndSumDigit.cpp" />
     <ClCompile Include="CodeWar\TwistedSorting.cpp" />
     <ClCompile Include="DataStructure\DoubleLinkedListAndDoubleEndedQueue.cpp" />
     <ClCompile Include="DataStructure\MultidimensionalArray.cpp" />
+    <ClCompile Include="DataStructure\PriorityQueue.cpp" />
     <ClCompile Include="DataStructure\SetAndMap.cpp" />
     <ClCompile Include="DataStructure\SimpleArray.cpp" />
     <ClCompile Include="MathTrick\Prime.cpp" />
@@ -172,14 +176,18 @@
   <ItemGroup>
     <ClInclude Include="Algorithm\Searching.h" />
     <ClInclude Include="Algorithm\Sorting.h" />
+    <ClInclude Include="CodeTrick\COut.h" />
     <ClInclude Include="CodeTrick\Predicate.h" />
     <ClInclude Include="CodeWar\ErrorHistogram.h" />
     <ClInclude Include="CodeWar\HistogramH1.h" />
+    <ClInclude Include="CodeWar\KillerGarageDoor.h" />
     <ClInclude Include="CodeWar\LatinPig.h" />
+    <ClInclude Include="CodeWar\PointsInTheCircle.h" />
     <ClInclude Include="CodeWar\ReachMeAndSumDigit.h" />
     <ClInclude Include="CodeWar\TwistedSorting.h" />
     <ClInclude Include="DataStructure\DoubleLinkedListAndDoubleEndedQueue.h" />
     <ClInclude Include="DataStructure\MultidimensionalArray.h" />
+    <ClInclude Include="DataStructure\PriorityQueue.h" />
     <ClInclude Include="DataStructure\SetAndMap.h" />
     <ClInclude Include="DataStructure\SimpleArray.h" />
     <ClInclude Include="MathTrick\Prime.h" />
