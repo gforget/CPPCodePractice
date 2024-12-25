@@ -154,15 +154,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Algorithm\FibonnaciDP.cpp" />
     <ClCompile Include="Algorithm\Searching.cpp" />
     <ClCompile Include="Algorithm\Sorting.cpp" />
     <ClCompile Include="CodePractice.cpp" />
     <ClCompile Include="CodeTrick\COut.cpp" />
     <ClCompile Include="CodeTrick\Predicate.cpp" />
+    <ClCompile Include="CodeWar\BirdMountain.cpp" />
     <ClCompile Include="CodeWar\ErrorHistogram.cpp" />
     <ClCompile Include="CodeWar\HistogramH1.cpp" />
     <ClCompile Include="CodeWar\KillerGarageDoor.cpp" />
     <ClCompile Include="CodeWar\LatinPig.cpp" />
+    <ClCompile Include="CodeWar\Lucas numbers.cpp" />
     <ClCompile Include="CodeWar\PointsInTheCircle.cpp" />
     <ClCompile Include="CodeWar\ReachMeAndSumDigit.cpp" />
     <ClCompile Include="CodeWar\TwistedSorting.cpp" />
@@ -174,14 +177,17 @@
     <ClCompile Include="MathTrick\Prime.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Algorithm\FibonnaciDP.h" />
     <ClInclude Include="Algorithm\Searching.h" />
     <ClInclude Include="Algorithm\Sorting.h" />
     <ClInclude Include="CodeTrick\COut.h" />
     <ClInclude Include="CodeTrick\Predicate.h" />
+    <ClInclude Include="CodeWar\BirdMountain.h" />
     <ClInclude Include="CodeWar\ErrorHistogram.h" />
     <ClInclude Include="CodeWar\HistogramH1.h" />
     <ClInclude Include="CodeWar\KillerGarageDoor.h" />
     <ClInclude Include="CodeWar\LatinPig.h" />
+    <ClInclude Include="CodeWar\Lucas numbers.h" />
     <ClInclude Include="CodeWar\PointsInTheCircle.h" />
     <ClInclude Include="CodeWar\ReachMeAndSumDigit.h" />
     <ClInclude Include="CodeWar\TwistedSorting.h" />
