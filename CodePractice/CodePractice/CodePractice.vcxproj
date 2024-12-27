@@ -159,6 +159,7 @@
     <ClCompile Include="Algorithm\Sorting.cpp" />
     <ClCompile Include="CodePractice.cpp" />
     <ClCompile Include="CodeTrick\COut.cpp" />
+    <ClCompile Include="CodeTrick\EnumExample.cpp" />
     <ClCompile Include="CodeTrick\Predicate.cpp" />
     <ClCompile Include="CodeWar\BinaryTreeSearch(notBST).cpp" />
     <ClCompile Include="CodeWar\BirdMountain.cpp" />
@@ -184,7 +185,9 @@
     <ClInclude Include="Algorithm\FibonnaciDP.h" />
     <ClInclude Include="Algorithm\Searching.h" />
     <ClInclude Include="Algorithm\Sorting.h" />
+    <ClInclude Include="Architecture\Inheritance.h" />
     <ClInclude Include="CodeTrick\COut.h" />
+    <ClInclude Include="CodeTrick\EnumExample.h" />
     <ClInclude Include="CodeTrick\Predicate.h" />
     <ClInclude Include="CodeWar\BinaryTreeSearch(notBST).h" />
     <ClInclude Include="CodeWar\BirdMountain.h" />
