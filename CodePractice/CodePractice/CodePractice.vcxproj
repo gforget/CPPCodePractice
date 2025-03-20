@@ -171,6 +171,7 @@
     <ClCompile Include="CodeWar\Lucas numbers.cpp" />
     <ClCompile Include="CodeWar\PointsInTheCircle.cpp" />
     <ClCompile Include="CodeWar\ReachMeAndSumDigit.cpp" />
+    <ClCompile Include="CodeWar\RemoveSpecificArray.cpp" />
     <ClCompile Include="CodeWar\SumSequence(Hard).cpp" />
     <ClCompile Include="CodeWar\TwistedSorting.cpp" />
     <ClCompile Include="DataStructure\BinaryTree.cpp" />
@@ -179,6 +180,8 @@
     <ClCompile Include="DataStructure\PriorityQueue.cpp" />
     <ClCompile Include="DataStructure\SetAndMap.cpp" />
     <ClCompile Include="DataStructure\SimpleArray.cpp" />
+    <ClCompile Include="HeapStackExercice\StringBufferManager.cpp" />
+    <ClCompile Include="HeapStackExercice\TestStringBufferManager.cpp" />
     <ClCompile Include="MathTrick\Prime.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -199,6 +202,7 @@
     <ClInclude Include="CodeWar\Lucas numbers.h" />
     <ClInclude Include="CodeWar\PointsInTheCircle.h" />
     <ClInclude Include="CodeWar\ReachMeAndSumDigit.h" />
+    <ClInclude Include="CodeWar\RemoveSpecificArray.h" />
     <ClInclude Include="CodeWar\SumSequence(Hard).h" />
     <ClInclude Include="CodeWar\TwistedSorting.h" />
     <ClInclude Include="DataStructure\BinaryTree.h" />
@@ -207,7 +211,10 @@
     <ClInclude Include="DataStructure\PriorityQueue.h" />
     <ClInclude Include="DataStructure\SetAndMap.h" />
     <ClInclude Include="DataStructure\SimpleArray.h" />
+    <ClInclude Include="HeapStackExercice\StringBufferManager.h" />
+    <ClInclude Include="HeapStackExercice\TestStringBufferManager.h" />
     <ClInclude Include="MathTrick\Prime.h" />
+    <ClInclude Include="TemplateExercice\Container.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
